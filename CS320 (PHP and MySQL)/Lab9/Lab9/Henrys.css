@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	position:relative;
+	width:955px;
+	margin: 0 auto;
+}
+
+select {
+	font-family:Georgia, "Times New Roman", Times, serif;
+}
+
+.textAlignRight
+	{text-align:right;
+}
+
